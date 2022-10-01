@@ -33,6 +33,7 @@
 - [Nirav Prajapati](https://github.com/Niravprajapati1)
 - [Preetal Shah](https://github.com/pree251)
 - [Nandan Bilagi](https://github.com/nandanpytech)
+- [Deepesh Gupta](https://github.com/deepesh0706)
 - baba
 - [Tautvydas Karvelis](https://github.com/Tautve)
 - [Mohammad Aakash](https://github.com/MuhammadAakash)
